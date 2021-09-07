@@ -7,10 +7,10 @@
     <img src=".github/images/banner-logo.svg" alt="Banner do logo da SmartHome" width="670px">
   </a>
 
-  <h3 align="center">
+  <p align="center" style="font-size:24px;">
     <strong>Quem</strong>
     <span style="font-weight:100;">Somos?</span>
-  </h3>
+  </p>
 
   <p align="center">
     SmartHome é uma loja que com apenas um toque, te permite automatizar totalmente a sua casa,<br/> 
@@ -35,8 +35,7 @@
     <br/><br/>
   </p>
 </p> 
-<img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
-
+<img src=".github/images/line.svg" alt="Linha de divisão" width="100%">
 ## SUMÁRIO
 <ol>
   <li><a href="#1-resumo">RESUMO</a></li>
