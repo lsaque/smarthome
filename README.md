@@ -35,12 +35,9 @@
     <br/><br/>
   </p>
 </p> 
-<img src=".github/images/line.svg" alt="Linha de divisão" width="100%">
-<br/>
-<br/>
-<summary>
-  <h2 style="display: inline-block" id="sumario">Sumário</h2>
-</summary>
+<img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
+
+## SUMÁRIO
 <ol>
   <li><a href="#1-resumo">RESUMO</a></li>
   <li>
