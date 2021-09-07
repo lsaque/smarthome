@@ -1,3 +1,7 @@
+<img src=".github/images/line.svg" alt="Linha de divisão" width="100%">
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
     <img src=".github/images/banner-logo.svg" alt="Banner do logo da SmartHome" width="670px">
@@ -31,99 +35,97 @@
     <br/><br/>
   </p>
 </p> 
-
-<img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
-
-<details open="open">
-  <summary>
-    <h2 style="display: inline-block" id="sumario">Sumário</h2>
-  </summary>
-  <ol>
-    <li><a href="#1-resumo">RESUMO</a></li>
-    <li>
-      <a href="#2-introdução">INTRODUÇÃO</a>
-      <ul>
-        <li><a href="#21-análise-de-mercado">Análise de Mercado</a></li>
-        <ul>
-          <li><a href="#211-macrorregião">Macrorregião</a></li>
-          <li><a href="#212-microrregião">Microrregião</a></li>
-        </ul>
-        <li><a href="#22-ciclo-de-vida-do-setor">Ciclo de vida do Setor</a></li>
-        <ul>
-          <li><a href="#221-identificação-de-lacunas">Identificação de lacunas</a></li>
-        </ul>
-        <li><a href="#23-problema">Problema</a></li>
-        <ul>
-          <li><a href="#231-justificativa">Justificativa</a></li>
-        </ul>
-        <li><a href="#24-objetivo-geral">Objetivo Geral</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#3-empresa">EMPRESA</a>
-      <ul>
-        <li><a href="#31-princípios">Princípios</a></li>
-        <ul>
-          <li><a href="#31-princípios">Visão</a></li>
-          <li><a href="#31-princípios">Missão</a></li>
-          <li><a href="#31-princípios">Valores</a></li>
-          <li><a href="#31-princípios">Propósito</a></li>
-        </ul>
-        <li><a href="#32-público-alvo">Público Alvo</a></li>
-        <li><a href="#33-dor">Dor</a></li>
-        <li><a href="#34-persona">Persona</a></li>
-        <li><a href="#35-proposta-de-valor">Proposta de Valor</a></li>
-      </ul>
-    </li>
-    <li><a href="#4-metodologia-de-desenvolvimento">METODOLOGIA DE DESENVOLVIMENTO</a></li>
+<img src=".github/images/line.svg" alt="Linha de divisão" width="100%">
+<br/>
+<br/>
+<summary>
+  <h2 style="display: inline-block" id="sumario">Sumário</h2>
+</summary>
+<ol>
+  <li><a href="#1-resumo">RESUMO</a></li>
+  <li>
+    <a href="#2-introdução">INTRODUÇÃO</a>
     <ul>
-      <li><a href="#41-análise-de-requisitos">Análise de Requisitos</a></li>
-      <li><a href="#42-técnicas-utilizadas">Técnicas Utilizadas</a></li>
-      <li><a href="#43-modelo-de-desenvolvimento-de-software">Modelo de desenvolvimento de software</a></li>
-    </ul>
-    <li><a href="#5-ferramentas-de-desenvolvimento">FERRAMENTAS DE DESENVOLVIMENTO</a></li>
+      <li><a href="#21-análise-de-mercado">Análise de Mercado</a></li>
       <ul>
-        <li><a href="#51-linguagens-utilizadas">Linguagens Utilizadas</a></li>
-        <ul>
-          <li><a href="#51-linguagens-utilizadas">HTML5</a></li>
-          <li><a href="#51-linguagens-utilizadas">CSS3/SCSS</a></li>
-          <li><a href="#51-linguagens-utilizadas">JavaScript</a></li>
-        </ul>
-        <li><a href="#52-bibliotecas-importadas">Bibliotecas Importadas</a></li>
-        <ul>
-          <li><a href="#52-bibliotecas-importadas">Reat JS</a></li>
-          <li><a href="#52-bibliotecas-importadas">Styled Components</a></li>
-          <li><a href="#52-bibliotecas-importadas">TypeScript</a></li>
-        </ul>
-        <li><a href="#53-ferramentas-de-banco-de-dados">Ferramentas de Banco de Dados</a></li>
-        <!-- <ul>
-          <li><a href="#">Adicionar</a></li>
-        </ul> -->
-        <li><a href="#54-ferramentas-gráficas">Ferramentas Gráficas</a></li>
-        <ul>
-          <li><a href="#54-ferramentas-gráficas">Affinity Design</a></li>
-          <li><a href="#54-ferramentas-gráficas">Adobe Photoshop</a></li>
-          <li><a href="#54-ferramentas-gráficas">Adobe XD</a></li>
-        </ul>
-        <li><a href="#55-ferramentas-de-apoio">Ferramentas de Apoio</a></li>
-        <ul>
-          <li><a href="#55-ferramentas-de-apoio">Visual Studio Code</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Microsoft Word</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Microsoft Excel</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Google Chrome</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Trello</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Whimsical</a></li>
-          <li><a href="#55-ferramentas-de-apoio">Miro</a></li>
-        </ul>
+        <li><a href="#211-macrorregião">Macrorregião</a></li>
+        <li><a href="#212-microrregião">Microrregião</a></li>
       </ul>
-    <li><a href="#6-análise-de-sistemas">ANÁLISE DE SISTEMAS</a></li>
-    <ul>
-      <li><a href="#61-mapa-do-site">Mapa do Site</a></li>
-      <li><a href="#62-funcionalidades">Funcionalidades</a></li>
+      <li><a href="#22-ciclo-de-vida-do-setor">Ciclo de vida do Setor</a></li>
+      <ul>
+        <li><a href="#221-identificação-de-lacunas">Identificação de lacunas</a></li>
+      </ul>
+      <li><a href="#23-problema">Problema</a></li>
+      <ul>
+        <li><a href="#231-justificativa">Justificativa</a></li>
+      </ul>
+      <li><a href="#24-objetivo-geral">Objetivo Geral</a></li>
     </ul>
-    <li><a href="#7-considerações-finais">CONSIDERAÇÕES FINAIS</a></li>
-  </ol>
-</details>
+  </li>
+  <li>
+    <a href="#3-empresa">EMPRESA</a>
+    <ul>
+      <li><a href="#31-princípios">Princípios</a></li>
+      <ul>
+        <li><a href="#31-princípios">Visão</a></li>
+        <li><a href="#31-princípios">Missão</a></li>
+        <li><a href="#31-princípios">Valores</a></li>
+        <li><a href="#31-princípios">Propósito</a></li>
+      </ul>
+      <li><a href="#32-público-alvo">Público Alvo</a></li>
+      <li><a href="#33-dor">Dor</a></li>
+      <li><a href="#34-persona">Persona</a></li>
+      <li><a href="#35-proposta-de-valor">Proposta de Valor</a></li>
+    </ul>
+  </li>
+  <li><a href="#4-metodologia-de-desenvolvimento">METODOLOGIA DE DESENVOLVIMENTO</a></li>
+  <ul>
+    <li><a href="#41-análise-de-requisitos">Análise de Requisitos</a></li>
+    <li><a href="#42-técnicas-utilizadas">Técnicas Utilizadas</a></li>
+    <li><a href="#43-modelo-de-desenvolvimento-de-software">Modelo de desenvolvimento de software</a></li>
+  </ul>
+  <li><a href="#5-ferramentas-de-desenvolvimento">FERRAMENTAS DE DESENVOLVIMENTO</a></li>
+    <ul>
+      <li><a href="#51-linguagens-utilizadas">Linguagens Utilizadas</a></li>
+      <ul>
+        <li><a href="#51-linguagens-utilizadas">HTML5</a></li>
+        <li><a href="#51-linguagens-utilizadas">CSS3/SCSS</a></li>
+        <li><a href="#51-linguagens-utilizadas">JavaScript</a></li>
+      </ul>
+      <li><a href="#52-bibliotecas-importadas">Bibliotecas Importadas</a></li>
+      <ul>
+        <li><a href="#52-bibliotecas-importadas">Reat JS</a></li>
+        <li><a href="#52-bibliotecas-importadas">Styled Components</a></li>
+        <li><a href="#52-bibliotecas-importadas">TypeScript</a></li>
+      </ul>
+      <li><a href="#53-ferramentas-de-banco-de-dados">Ferramentas de Banco de Dados</a></li>
+      <!-- <ul>
+        <li><a href="#">Adicionar</a></li>
+      </ul> -->
+      <li><a href="#54-ferramentas-gráficas">Ferramentas Gráficas</a></li>
+      <ul>
+        <li><a href="#54-ferramentas-gráficas">Affinity Design</a></li>
+        <li><a href="#54-ferramentas-gráficas">Adobe Photoshop</a></li>
+        <li><a href="#54-ferramentas-gráficas">Adobe XD</a></li>
+      </ul>
+      <li><a href="#55-ferramentas-de-apoio">Ferramentas de Apoio</a></li>
+      <ul>
+        <li><a href="#55-ferramentas-de-apoio">Visual Studio Code</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Microsoft Word</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Microsoft Excel</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Google Chrome</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Trello</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Whimsical</a></li>
+        <li><a href="#55-ferramentas-de-apoio">Miro</a></li>
+      </ul>
+    </ul>
+  <li><a href="#6-análise-de-sistemas">ANÁLISE DE SISTEMAS</a></li>
+  <ul>
+    <li><a href="#61-mapa-do-site">Mapa do Site</a></li>
+    <li><a href="#62-funcionalidades">Funcionalidades</a></li>
+  </ul>
+  <li><a href="#7-considerações-finais">CONSIDERAÇÕES FINAIS</a></li>
+</ol>
 
 <img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
 
@@ -189,9 +191,7 @@ Nossa prioridade é qualidade de atendimento para atender todas as expectativas 
 
 ### 3.1 Princípios
 - **Visão:** Ser uma das primeiras empresas do ramo de Automação Residencial a prestar atendimento 100% remoto e com atendimento presencial para a instalação e manutenção de todos os equipamentos.
-<br/>
 - **Missão:** Atender o publico de forma diferenciada, sem que o cliente tenha que sair de sua casa ou local de trabalho, otimizando seu tempo e sem se preocupar em procurar um profissional especializado, que atenda as suas necessidades. Oferecer planos de assinatura e atendimento 24 horas.
-<br/>
 - **Valores:** 
   - Proximidade e satisfação ao cliente;
   - Alta performance;
@@ -200,7 +200,6 @@ Nossa prioridade é qualidade de atendimento para atender todas as expectativas 
   - Respeito;
   - Responsabilidade;
   - Sustentabilidade.
-  <br/>
 - **Propósito:** Criar um mundo onde o conforto, praticidade e a mobilidade seja de uma fonte de segurança e acessível.  
 
 ### 3.2 Público-alvo
