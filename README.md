@@ -36,6 +36,7 @@
   </p>
 </p> 
 <img src=".github/images/line.svg" alt="Linha de divisão" width="100%">
+
 ## SUMÁRIO
 <ol>
   <li><a href="#1-resumo">RESUMO</a></li>
