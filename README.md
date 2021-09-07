@@ -43,18 +43,18 @@
     <a href="#2-introdução">INTRODUÇÃO</a>
     <ul>
       <li><a href="#21-análise-de-mercado">Análise de Mercado</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#211-macrorregião">Macrorregião</a></li>
         <li><a href="#212-microrregião">Microrregião</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#22-ciclo-de-vida-do-setor">Ciclo de vida do Setor</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#221-identificação-de-lacunas">Identificação de lacunas</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#23-problema">Problema</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#231-justificativa">Justificativa</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#24-objetivo-geral">Objetivo Geral</a></li>
     </ul>
   </li>
@@ -62,12 +62,12 @@
     <a href="#3-empresa">EMPRESA</a>
     <ul>
       <li><a href="#31-princípios">Princípios</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#31-princípios">Visão</a></li>
         <li><a href="#31-princípios">Missão</a></li>
         <li><a href="#31-princípios">Valores</a></li>
         <li><a href="#31-princípios">Propósito</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#32-público-alvo">Público Alvo</a></li>
       <li><a href="#33-dor">Dor</a></li>
       <li><a href="#34-persona">Persona</a></li>
@@ -83,29 +83,29 @@
   <li><a href="#5-ferramentas-de-desenvolvimento">FERRAMENTAS DE DESENVOLVIMENTO</a></li>
     <ul>
       <li><a href="#51-linguagens-utilizadas">Linguagens Utilizadas</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#51-linguagens-utilizadas">HTML5</a></li>
         <li><a href="#51-linguagens-utilizadas">CSS3/SCSS</a></li>
         <li><a href="#51-linguagens-utilizadas">JavaScript</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#52-bibliotecas-importadas">Bibliotecas Importadas</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#52-bibliotecas-importadas">Reat JS</a></li>
         <li><a href="#52-bibliotecas-importadas">Styled Components</a></li>
         <li><a href="#52-bibliotecas-importadas">TypeScript</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#53-ferramentas-de-banco-de-dados">Ferramentas de Banco de Dados</a></li>
       <!-- <ul>
         <li><a href="#">Adicionar</a></li>
       </ul> -->
       <li><a href="#54-ferramentas-gráficas">Ferramentas Gráficas</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#54-ferramentas-gráficas">Affinity Design</a></li>
         <li><a href="#54-ferramentas-gráficas">Adobe Photoshop</a></li>
         <li><a href="#54-ferramentas-gráficas">Adobe XD</a></li>
-      </ul>
+      </ul> -->
       <li><a href="#55-ferramentas-de-apoio">Ferramentas de Apoio</a></li>
-      <ul>
+      <!-- <ul>
         <li><a href="#55-ferramentas-de-apoio">Visual Studio Code</a></li>
         <li><a href="#55-ferramentas-de-apoio">Microsoft Word</a></li>
         <li><a href="#55-ferramentas-de-apoio">Microsoft Excel</a></li>
@@ -113,7 +113,7 @@
         <li><a href="#55-ferramentas-de-apoio">Trello</a></li>
         <li><a href="#55-ferramentas-de-apoio">Whimsical</a></li>
         <li><a href="#55-ferramentas-de-apoio">Miro</a></li>
-      </ul>
+      </ul> -->
     </ul>
   <li><a href="#6-análise-de-sistemas">ANÁLISE DE SISTEMAS</a></li>
   <ul>
