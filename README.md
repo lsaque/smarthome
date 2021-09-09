@@ -108,7 +108,7 @@ A automação residencial é um dos seguimentos da área da automação que cons
 </p>
 
 <br/>
- O projeto propõe o desenvolvimento de um ecommerce com a integração de um exclusivo sistema de plano de assinatura, o qual servirá para clientes que gostariam de ter todo um suporte, customização, instalação e acompanhamento em tempo real de seus dispositivos e gastos.
+O projeto propõe o desenvolvimento de um ecommerce com a integração de um exclusivo sistema de plano de assinatura, o qual servirá para clientes que gostariam de ter todo um suporte, customização, instalação e acompanhamento em tempo real de seus dispositivos e gastos.
 
 ### 2.1 Análise de Mercado
 O projeto tem como principal foco o setor de automação residencial, buscando assim trazer para o mercado nacional o setor de casas inteligentes.
