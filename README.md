@@ -93,7 +93,8 @@ Os brasileiros vêm, ao longo dos anos, demonstrando cada vez mais interesse em 
 <img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
 
 ## 2. INTRODUÇÃO
-A automação residencial é um dos seguimentos da área da automação que consiste em ações para transformar o visual, a maneira em que a pessoa vive e interage com a sua casa, com o propósito de ganhar tempo e eficiência nas tarefas domésticas. Os números dessa indústria de automação residencial vêm crescendo fortemente nos últimos anos, e tende a crescer ainda mais para os próximos, de acordo com a seguinte análise de previsão e viabilidade:
+A automação residencial é um dos seguimentos da área da automação que consiste em ações para transformar o visual, a maneira em que a pessoa vive e interage com a sua casa, com o propósito de ganhar tempo e eficiência nas tarefas domésticas. Os números dessa indústria de automação residencial vêm crescendo fortemente nos últimos anos, e tende a crescer ainda mais para os próximos, de acordo com a seguinte análise de previsão e viabilidade: 
+<br/>
 
 <p align="center">
   <img src=".github/images/previsao-mercado.png" alt="Funcionalidades do Site"  width="1100px">
@@ -106,6 +107,7 @@ A automação residencial é um dos seguimentos da área da automação que cons
   </sub>
 </p>
 
+<br/>
  O projeto propõe o desenvolvimento de um ecommerce com a integração de um exclusivo sistema de plano de assinatura, o qual servirá para clientes que gostariam de ter todo um suporte, customização, instalação e acompanhamento em tempo real de seus dispositivos e gastos.
 
 ### 2.1 Análise de Mercado
