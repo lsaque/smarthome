@@ -44,18 +44,8 @@
     <a href="#2-introdução">INTRODUÇÃO</a>
     <ul>
       <li><a href="#21-análise-de-mercado">Análise de Mercado</a></li>
-      <!-- <ul>
-        <li><a href="#211-macrorregião">Macrorregião</a></li>
-        <li><a href="#212-microrregião">Microrregião</a></li>
-      </ul> -->
       <li><a href="#22-ciclo-de-vida-do-setor">Ciclo de vida do Setor</a></li>
-      <!-- <ul>
-        <li><a href="#221-identificação-de-lacunas">Identificação de lacunas</a></li>
-      </ul> -->
       <li><a href="#23-problema">Problema</a></li>
-      <!-- <ul>
-        <li><a href="#231-justificativa">Justificativa</a></li>
-      </ul> -->
       <li><a href="#24-objetivo-geral">Objetivo Geral</a></li>
     </ul>
   </li>
@@ -63,12 +53,6 @@
     <a href="#3-empresa">EMPRESA</a>
     <ul>
       <li><a href="#31-princípios">Princípios</a></li>
-      <!-- <ul>
-        <li><a href="#31-princípios">Visão</a></li>
-        <li><a href="#31-princípios">Missão</a></li>
-        <li><a href="#31-princípios">Valores</a></li>
-        <li><a href="#31-princípios">Propósito</a></li>
-      </ul> -->
       <li><a href="#32-público-alvo">Público Alvo</a></li>
       <li><a href="#33-dor">Dor</a></li>
       <li><a href="#34-persona">Persona</a></li>
@@ -84,37 +68,9 @@
   <li><a href="#5-ferramentas-de-desenvolvimento">FERRAMENTAS DE DESENVOLVIMENTO</a></li>
     <ul>
       <li><a href="#51-linguagens-utilizadas">Linguagens Utilizadas</a></li>
-      <!-- <ul>
-        <li><a href="#51-linguagens-utilizadas">HTML5</a></li>
-        <li><a href="#51-linguagens-utilizadas">CSS3/SCSS</a></li>
-        <li><a href="#51-linguagens-utilizadas">JavaScript</a></li>
-      </ul> -->
       <li><a href="#52-bibliotecas-importadas">Bibliotecas Importadas</a></li>
-      <!-- <ul>
-        <li><a href="#52-bibliotecas-importadas">Reat JS</a></li>
-        <li><a href="#52-bibliotecas-importadas">Styled Components</a></li>
-        <li><a href="#52-bibliotecas-importadas">TypeScript</a></li>
-      </ul> -->
-      <li><a href="#53-ferramentas-de-banco-de-dados">Ferramentas de Banco de Dados</a></li>
-      <!-- <ul>
-        <li><a href="#">Adicionar</a></li>
-      </ul> -->
       <li><a href="#54-ferramentas-gráficas">Ferramentas Gráficas</a></li>
-      <!-- <ul>
-        <li><a href="#54-ferramentas-gráficas">Affinity Design</a></li>
-        <li><a href="#54-ferramentas-gráficas">Adobe Photoshop</a></li>
-        <li><a href="#54-ferramentas-gráficas">Adobe XD</a></li>
-      </ul> -->
       <li><a href="#55-ferramentas-de-apoio">Ferramentas de Apoio</a></li>
-      <!-- <ul>
-        <li><a href="#55-ferramentas-de-apoio">Visual Studio Code</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Microsoft Word</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Microsoft Excel</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Google Chrome</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Trello</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Whimsical</a></li>
-        <li><a href="#55-ferramentas-de-apoio">Miro</a></li>
-      </ul> -->
     </ul>
   <li><a href="#6-análise-de-sistemas">ANÁLISE DE SISTEMAS</a></li>
   <ul>
@@ -137,7 +93,23 @@ Os brasileiros vêm, ao longo dos anos, demonstrando cada vez mais interesse em 
 <img src=".github/images/line.svg" alt="Linha de divisão" width="100%"><br/>
 
 ## 2. INTRODUÇÃO
-`(textinho aqui)`
+A automação residencial é um dos seguimentos da área da automação que consiste em ações para transformar o visual, a maneira em que a pessoa vive e interage com a sua casa, com o propósito de ganhar tempo e eficiência nas tarefas domésticas. Os números dessa indústria de automação residencial vêm crescendo fortemente nos últimos anos, e tende a crescer ainda mais para os próximos, de acordo com a seguinte análise de previsão e viabilidade: 
+<br/>
+<br/>
+
+<p align="center">
+  <img src=".github/images/previsao-mercado.png" alt="Funcionalidades do Site"  width="1100px">
+  <sub>
+    <i>Previsão de mercado criado com 
+      <a href="https://www.microsoft.com/en-us/microsoft-365/excel" title="Excel is a spreadsheet editor produced by Microsoft for computers.">
+        @Excel
+      </a>
+    </i>
+  </sub>
+</p>
+
+<br/>
+O projeto propõe o desenvolvimento de um ecommerce com a integração de um exclusivo sistema de plano de assinatura, o qual servirá para clientes que gostariam de ter todo um suporte, customização, instalação e acompanhamento em tempo real de seus dispositivos e gastos.
 
 ### 2.1 Análise de Mercado
 O projeto tem como principal foco o setor de automação residencial, buscando assim trazer para o mercado nacional o setor de casas inteligentes.
@@ -183,8 +155,6 @@ Tornar acessível a automação residencial, com o objetivo de facilitar e promo
 SmartHome é uma empresa de Automação Residencial. Desenvolvemos projetos de acordo com a necessidade de cada cliente, executando com competência, cumprindo prazos e superando expectativas.
 
 Nossa prioridade é qualidade de atendimento para atender todas as expectativas de nossos clientes. Por isso desenvolvemos projetos completos trazendo o melhor em tecnologia para sua casa e empresa.
-
-`Não esquecer dos dados e gráficos de previsão`
 
 ### 3.1 Princípios
 - **Visão:** Ser uma das primeiras empresas do ramo de Automação Residencial a prestar atendimento 100% remoto e com atendimento presencial para a instalação e manutenção de todos os equipamentos.
@@ -255,17 +225,17 @@ Para o desenvolvimento do projeto, foram necessários alguns recursos, segue aba
 - [Styled Components](https://styled-components.com/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-### 5.3 Ferramentas de banco de dados
+<!-- ### 5.3 Ferramentas de banco de dados
+v
+`Nenhum até o presente momento` -->
 
-`Nenhum até o presente momento`
-
-### 5.4 Ferramentas gráficas
+### 5.3 Ferramentas gráficas
 
 - [Affinity Designer](https://affinity.serif.com/pt-br/designer/)
 - [Adobe Photoshop](https://www.adobe.com/br/products/photoshop.html)
 - [Adobe XD](https://www.adobe.com/br/products/xd.html)
 
-### 5.5 Ferramentas de apoio
+### 5.4 Ferramentas de apoio
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.com/intl/pt-BR/chrome/)
